@@ -74,7 +74,6 @@ const homeSection = document.querySelector('.home');
 
 const aboutSection = document.querySelector('.about');
 
-homeSection.classList.remove('display');
 
 homeHeaderItem.addEventListener('click', () => 
 {
